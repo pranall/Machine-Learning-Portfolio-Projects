@@ -18,19 +18,19 @@ Non-Linear Regression Models: Project focused on non-linear regression modeling 
 
 [Full Non-Linear Regression Models project link with .ipynb, csv and README file](https://github.com/pranall/Machine-Learning-Portfolio-Projects/tree/main/Non-Linear%20Regression%20Models)
 
---
+---------------------------------------
 
 Classification: Project focuses on classification methods using the Weekly and Auto.csv datasets and also demonstrates the application of logistic regression, LDA, QDA, and other classification approaches to predict categorical outcomes based on predictor variables.
 
 [Full Classification project link with .ipynb, csv and README file](https://github.com/pranall/Machine-Learning-Portfolio-Projects/blob/main/Classification/README.md)
 
---
+-----------------------------------------
 
 Tree Based Models: Project focuses on tree-based methods using datasets from the ISLR repository and also demonstrates the use of random forests and boosting to model complex relationships and evaluate predictive performance compared to simpler models.
 
 [Full Tree Based Models project link with .ipynb, csv and README file](https://github.com/pranall/Machine-Learning-Portfolio-Projects/blob/main/Tree%20Based%20Models/README.md)
 
---
+----------------------------------------
 
 Loan Default Prediction Project: This project aims to build a machine learning model for predicting whether a customer will default on a loan based on historical data.
 
